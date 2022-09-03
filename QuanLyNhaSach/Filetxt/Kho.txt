@@ -1,0 +1,17 @@
+1         |Lập trình giao diện                               |2         |Công nghệ thông tin           |Nguyễn Thị Phương Trang       |50000     
+2         |Phân tích thiết kế hệ thống                       |10        |Công nghệ thông tin           |Hồ Quang Khải                 |60000     
+3         |Mạng máy tính                                     |5         |Công nghệ thông tin           |Lưu Quang Phương              |45000     
+4         |Cơ sở dữ liệu                                     |3         |Công nghệ thông tin           |Nguyễn Thị Phương Trang       |35000     
+5         |Thiết kế Web                                      |1         |Công nghệ thông tin           |Dương Hữu Thành               |50000     
+6         |Quản trị hệ cơ sơ dữ liệu                         |2         |Công nghệ thông tin           |Hồ Quang Khải                 |100000    
+7         |Quản trị mạng                                     |4         |Công nghệ thông tin           |Lưu Quang Phương              |65000     
+8         |Toán rời rạc                                      |7         |Toán tin học                  |Lê Hồng Thái                  |25000     
+9         |Cơ sở lập trình                                   |15        |Công nghệ thông tin           |Lê Hồng Thái                  |45000     
+10        |Kĩ thuật lập trình                                |5         |Công nghệ thông tin           |Lê Hồng Thái                  |45000     
+11        |Giải tích                                         |23        |Toán cao cấp                  |Nguyễn Quyết                  |15000     
+12        |Hệ điều hành                                      |12        |Công nghệ thông tin           |Nguyễn Thị Mai Trang          |45000     
+13        |Xác suất thống kê                                 |32        |Toán cao cấp                  |Lân                           |10000     
+14        |Lập trình hướng đối tượng                         |1         |Công nghệ thông tin           |Nguyễn Tiến Đạt               |65000     
+15        |Cấu trúc dữ liệu và giải thuật                    |21        |Công nghệ thông tin           |Nguyễn Chí Thanh              |35000     
+16        |Nhập môn tin học                                  |1         |Tin học đại cương             |Nguyễn Thị Phương Trang       |35000     
+17        |Đại số tuyến tín                                  |11        |Toán cao cấp                  |Hải                           |15000     
